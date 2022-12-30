@@ -9,9 +9,6 @@ def main() -> int:
     print("Running gen-art demo...")
     print("\t dir : ", os. getcwd())
 
-    #src = "/Users/avikpaul/Documents/Processing/avik_demo_1/res/square.png"
-    #dest = "/Users/avikpaul/Documents/Processing/avik_demo_1/res/square-outline.png"
-    #RemoveBg(src, dest)
     TestSocketClient()
     return 0
 
