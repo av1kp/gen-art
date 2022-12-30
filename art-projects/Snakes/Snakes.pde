@@ -39,3 +39,33 @@ public void draw() {
     prevycontrol = ycontrol;
   }
 }
+
+float margin = 50;
+
+public class Squiggle {
+  private float x;
+  private float y;
+  float d;
+  float amp;
+  
+  private ArrayList<PVector> circles = new ArrayList(20);
+  
+  public Squiggle(float x0, float y0) {
+    this.x = x0;
+    this.y = y0;
+    this.circles.add(new PVector(x0, y0));
+    this.d = 4;
+    this.amp = random(2, 10);
+  }
+  
+  public boolean Move() {
+    float theta = atan2(y - height/2, x - width/2) + sin(dist(x, y, width/2, height/2) / amp);
+    float r = 1;
+    x += r * cos(theta);
+    y += r * sin(theta);
+    if (this.x < margin || this.x > width-margin || this.y < margin || this.y > height-margin) {
+      return false;
+    }
+    return false;
+  }
+};
