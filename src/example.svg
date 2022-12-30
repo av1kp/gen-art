@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="1000" viewBox="-100.0 -100.0 200 200">
+<defs>
+<path d="M-10,-20 C30,10,30,-50,70,-20" stroke-width="2" stroke="lime" fill="black" fill-opacity="0.2" id="d0" />
+</defs>
+<rect x="-100" y="-100" width="200" height="200" fill="rgb(123,123,124)" opacity="0.25" />
+<circle cx="0" cy="0" r="2" fill="white" />
+<rect x="-100.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,100.0 L-90.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,100.0 L-90.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,100.0 L-80.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,100.0 L-70.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,100.0 L-50.0,100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,100.0 L-50.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,100.0 L-30.0,100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,100.0 L-20.0,100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,100.0 L-20.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,100.0 L0.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,100.0 L0.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,100.0 L10.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,100.0 L30.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,100.0 L30.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,100.0 L50.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,100.0 L60.0,100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,100.0 L60.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,100.0 L80.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,100.0 L90.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M100.0,100.0 L90.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,90.0 L-90.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,90.0 L-90.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,90.0 L-70.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,90.0 L-70.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,90.0 L-60.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,90.0 L-50.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,90.0 L-30.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,90.0 L-20.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,90.0 L-10.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,90.0 L-10.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,90.0 L0.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,90.0 L20.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,90.0 L30.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,90.0 L30.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,90.0 L50.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,90.0 L60.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,90.0 L70.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,90.0 L70.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,90.0 L80.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,90.0 L100.0,90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,80.0 L-100.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,80.0 L-90.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,80.0 L-80.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,80.0 L-70.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,80.0 L-60.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,80.0 L-50.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,80.0 L-30.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,80.0 L-20.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,80.0 L-10.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,80.0 L-10.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,80.0 L10.0,80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,80.0 L20.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,80.0 L20.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,80.0 L40.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,80.0 L40.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,80.0 L50.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,80.0 L60.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,80.0 L80.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,80.0 L90.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,80.0 L100.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,70.0 L-90.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,70.0 L-90.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,70.0 L-70.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,70.0 L-70.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,70.0 L-50.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,70.0 L-50.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,70.0 L-40.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,70.0 L-30.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,70.0 L-20.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,70.0 L0.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,70.0 L10.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,70.0 L20.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,70.0 L20.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,70.0 L40.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,70.0 L40.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,70.0 L50.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,70.0 L60.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,70.0 L80.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,70.0 L90.0,70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M100.0,70.0 L90.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,60.0 L-90.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,60.0 L-90.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,60.0 L-70.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,60.0 L-60.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,60.0 L-50.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,60.0 L-50.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,60.0 L-30.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,60.0 L-30.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,60.0 L-10.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,60.0 L0.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,60.0 L10.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,60.0 L20.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,60.0 L30.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,60.0 L40.0,60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,60.0 L40.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,60.0 L50.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,60.0 L70.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,60.0 L80.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,60.0 L90.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,60.0 L100.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,50.0 L-90.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,50.0 L-80.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,50.0 L-70.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,50.0 L-60.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,50.0 L-60.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,50.0 L-50.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,50.0 L-40.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,50.0 L-20.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,50.0 L-20.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,50.0 L-10.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,50.0 L0.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,50.0 L10.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,50.0 L30.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,50.0 L30.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,50.0 L40.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,50.0 L50.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,50.0 L70.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,50.0 L80.0,50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,50.0 L90.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,50.0 L90.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,40.0 L-100.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,40.0 L-90.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,40.0 L-80.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,40.0 L-60.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,40.0 L-60.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,40.0 L-40.0,40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,40.0 L-40.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,40.0 L-20.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,40.0 L-20.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,40.0 L-10.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,40.0 L0.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,40.0 L10.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,40.0 L20.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,40.0 L30.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,40.0 L40.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,40.0 L60.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,40.0 L60.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,40.0 L70.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,40.0 L90.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M100.0,40.0 L90.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,30.0 L-90.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,30.0 L-80.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,30.0 L-70.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,30.0 L-70.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,30.0 L-60.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,30.0 L-40.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,30.0 L-40.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,30.0 L-20.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,30.0 L-20.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,30.0 L0.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,30.0 L0.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,30.0 L20.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,30.0 L20.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,30.0 L30.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,30.0 L50.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,30.0 L60.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,30.0 L70.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,30.0 L70.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,30.0 L90.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,30.0 L100.0,30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,20.0 L-100.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,20.0 L-80.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,20.0 L-80.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,20.0 L-60.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,20.0 L-50.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,20.0 L-40.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,20.0 L-40.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,20.0 L-30.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,20.0 L-20.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,20.0 L-10.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,20.0 L10.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,20.0 L10.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,20.0 L30.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,20.0 L40.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,20.0 L50.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,20.0 L50.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,20.0 L70.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,20.0 L80.0,20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,20.0 L90.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,20.0 L100.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,10.0 L-100.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,10.0 L-90.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,10.0 L-80.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,10.0 L-70.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,10.0 L-60.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,10.0 L-40.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,10.0 L-30.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,10.0 L-30.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,10.0 L-10.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,10.0 L0.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,10.0 L10.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,10.0 L20.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,10.0 L30.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,10.0 L40.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,10.0 L40.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,10.0 L50.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,10.0 L70.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,10.0 L70.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="0.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,10.0 L90.0,10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="0.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,10.0 L90.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-0.0 L-100.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-0.0 L-90.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-0.0 L-80.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-0.0 L-70.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-0.0 L-60.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-0.0 L-40.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-0.0 L-40.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-0.0 L-20.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-0.0 L-20.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-0.0 L0.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-0.0 L10.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-0.0 L20.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-0.0 L20.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-0.0 L30.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-0.0 L40.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-0.0 L60.0,-0.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-0.0 L60.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-0.0 L70.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-10.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-0.0 L90.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-10.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M100.0,-0.0 L90.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-10.0 L-100.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-10.0 L-80.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-10.0 L-70.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-10.0 L-70.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-10.0 L-50.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-10.0 L-50.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-10.0 L-30.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-10.0 L-20.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-10.0 L-20.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-10.0 L-10.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-10.0 L0.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-10.0 L20.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-10.0 L20.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-10.0 L30.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-10.0 L40.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-10.0 L50.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-10.0 L70.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-10.0 L80.0,-10.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-20.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-10.0 L80.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-20.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M100.0,-10.0 L90.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-20.0 L-100.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-20.0 L-90.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-20.0 L-70.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-20.0 L-60.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-20.0 L-60.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-20.0 L-50.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-20.0 L-40.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-20.0 L-20.0,-20.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-20.0 L-10.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-20.0 L-10.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-20.0 L10.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-20.0 L20.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-20.0 L30.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-20.0 L40.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-20.0 L40.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-20.0 L50.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-20.0 L60.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-20.0 L70.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-30.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-20.0 L80.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-30.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-20.0 L90.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-30.0 L-90.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-30.0 L-80.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-30.0 L-70.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-30.0 L-70.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-30.0 L-50.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-30.0 L-40.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-30.0 L-30.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-30.0 L-20.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-30.0 L-20.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-30.0 L0.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-30.0 L0.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-30.0 L10.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-30.0 L30.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-30.0 L40.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-30.0 L50.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-30.0 L60.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-30.0 L60.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-30.0 L70.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-40.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-30.0 L90.0,-30.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-40.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-30.0 L90.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-40.0 L-90.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-40.0 L-80.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-40.0 L-70.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-40.0 L-60.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-40.0 L-50.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-40.0 L-40.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-40.0 L-30.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-40.0 L-30.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-40.0 L-10.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-40.0 L0.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-40.0 L10.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-40.0 L10.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-40.0 L30.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-40.0 L30.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-40.0 L40.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-40.0 L50.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-40.0 L60.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-40.0 L80.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-50.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-40.0 L80.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-50.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-40.0 L100.0,-40.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-50.0 L-90.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-50.0 L-80.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-50.0 L-80.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-50.0 L-70.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-50.0 L-60.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-50.0 L-40.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-50.0 L-30.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-50.0 L-20.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-50.0 L-10.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-50.0 L-10.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-50.0 L10.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-50.0 L10.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-50.0 L20.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-50.0 L30.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-50.0 L40.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-50.0 L60.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-50.0 L70.0,-50.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-50.0 L70.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-60.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-50.0 L90.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-60.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-50.0 L100.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-60.0 L-90.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-60.0 L-80.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-60.0 L-70.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-60.0 L-60.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-60.0 L-60.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-60.0 L-50.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-60.0 L-30.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-60.0 L-20.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-60.0 L-10.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-60.0 L0.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-60.0 L10.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-60.0 L20.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-60.0 L30.0,-60.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-60.0 L40.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-60.0 L40.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-60.0 L50.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-60.0 L60.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-60.0 L70.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-70.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-60.0 L80.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-70.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-60.0 L100.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-100.0,-70.0 L-90.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-70.0 L-90.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-70.0 L-80.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-70.0 L-60.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-70.0 L-60.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-70.0 L-40.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-70.0 L-30.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-70.0 L-20.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-70.0 L-20.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-70.0 L0.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-70.0 L0.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-70.0 L10.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-70.0 L30.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-70.0 L30.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-70.0 L50.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-70.0 L60.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-70.0 L60.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-70.0 L80.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-80.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-70.0 L90.0,-70.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-80.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-70.0 L100.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-80.0 L-100.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-80.0 L-90.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-80.0 L-70.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-80.0 L-60.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-60.0,-80.0 L-50.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-80.0 L-50.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-80.0 L-40.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-80.0 L-20.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-80.0 L-20.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-80.0 L-10.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-80.0 L0.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-80.0 L20.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-80.0 L20.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-80.0 L40.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-80.0 L50.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-80.0 L50.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M60.0,-80.0 L70.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-80.0 L70.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-90.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-80.0 L90.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-90.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-80.0 L100.0,-80.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-100.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-90.0,-90.0 L-100.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-90.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-90.0 L-90.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-80.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-80.0,-90.0 L-70.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-70.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-70.0,-90.0 L-60.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-60.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-90.0 L-60.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-50.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-50.0,-90.0 L-50.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-40.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-40.0,-90.0 L-40.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-30.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-30.0,-90.0 L-20.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-20.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M-20.0,-90.0 L-20.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="-10.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M-10.0,-90.0 L0.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="0.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M0.0,-90.0 L10.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="10.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M10.0,-90.0 L20.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="20.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M20.0,-90.0 L30.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="30.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M30.0,-90.0 L40.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="40.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M40.0,-90.0 L50.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="50.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M50.0,-90.0 L60.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="60.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-90.0 L60.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="70.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M70.0,-90.0 L80.0,-90.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="80.0" y="-100.0" width="10.0" height="10.0" fill="magenta" opacity="0.45" stroke-width="0.5" />
+<path d="M80.0,-90.0 L80.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<rect x="90.0" y="-100.0" width="10.0" height="10.0" fill="salmon" opacity="0.45" stroke-width="0.5" />
+<path d="M90.0,-90.0 L90.0,-100.0" opacity="1" stroke="white" stroke-width="0.5" />
+<circle cx="-40" cy="10" r="30" fill="pink" stroke-width="2" stroke="black" opacity="0.01" />
+<use xlink:href="#d0" />
+<text x="-10" y="-35" font-size="8" fill="blue" dy="0em">Basic text</text>
+<text font-size="8" text-anchor="start"><textPath xlink:href="#d0" startOffset="0">
+<tspan dy="0.4em">Path text</tspan>
+</textPath></text>
+<g>
+<text font-size="8" text-anchor="end"><textPath xlink:href="#d0" startOffset="100%">
+<tspan dy="0em" dx="-1">Multi-line</tspan>
+</textPath></text>
+<text font-size="8" text-anchor="end"><textPath xlink:href="#d0" startOffset="100%">
+<tspan dy="1em" dx="-1">text</tspan>
+</textPath></text>
+</g>
+<circle cx="60" cy="20" r="20" stroke-dasharray="73.30382858376184 52.35987755982988" stroke-dashoffset="-31.41592653589793" stroke="red" stroke-width="5" fill="red" fill-opacity="0.2" />
+<path d="M70.0,2.679491924311229 A20,20,0,1,0,59.99999999999999,40.0" stroke="green" stroke-width="3" fill="none" />
+<path d="M59.99999999999999,40.0 A20,20,0,1,1,70.0,2.679491924311229" stroke="blue" stroke-width="1" fill="black" fill-opacity="0.3" />
+</svg>
